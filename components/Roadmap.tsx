@@ -125,7 +125,7 @@ export default function Roadmap() {
             {roadmapData.map((phase, index) => (
               <div
                 key={index}
-                ref={(el) => (phasesRef.current[index] = el)}
+                ref={(el) => { phasesRef.current[index] = el; }}
                 className={`relative transition-all duration-1000 ${
                   visiblePhases.includes(index)
                     ? 'opacity-100 transform translate-x-0'

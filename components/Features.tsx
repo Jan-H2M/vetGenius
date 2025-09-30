@@ -97,7 +97,7 @@ export default function Features() {
             return (
               <div
                 key={index}
-                ref={(el) => (cardsRef.current[index] = el)}
+                ref={(el) => { cardsRef.current[index] = el; }}
                 className={`group relative overflow-hidden rounded-2xl transition-all duration-700 ${
                   visibleCards.includes(index)
                     ? 'opacity-100 transform translate-y-0'
