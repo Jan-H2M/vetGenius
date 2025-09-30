@@ -1,0 +1,181 @@
+{
+  "navigation": {
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "contact": "Contact",
+    "requestAccess": "Demander l'accès"
+  },
+  "hero": {
+    "title": "VetGenius",
+    "subtitle": "Assistant Vétérinaire Propulsé par l'IA",
+    "tagline": "Soutient les vétérinaires avec une assistance diagnostique intelligente pour de meilleurs soins aux animaux"
+  },
+  "about": {
+    "title": "Une Révolution en Médecine Vétérinaire",
+    "paragraph1": "VetGenius.ai combine l'intelligence artificielle avancée avec des connaissances vétérinaires complètes pour soutenir les professionnels de la santé animale dans leur pratique quotidienne. En collaboration avec les principales universités vétérinaires, nous développons une plateforme qui combine les dernières connaissances scientifiques avec l'expérience pratique pour améliorer la qualité des soins aux animaux dans le monde entier.",
+    "paragraph2": "Nous nous efforçons de donner à chaque vétérinaire accès aux outils de diagnostic les plus avancés. En combinant l'analyse de données complexes avec des connaissances vétérinaires éprouvées, nous aidons les vétérinaires à établir des diagnostics plus rapides et plus précis, ce qui conduit finalement à de meilleurs résultats de santé pour les animaux."
+  },
+  "features": {
+    "title": "Fonctionnalités Principales",
+    "items": {
+      "multimodal": {
+        "title": "Diagnostics Multimodaux",
+        "description": "Analysez les radiographies, échographies, analyses sanguines et notes vocales sur une plateforme intégrée."
+      },
+      "labAnalysis": {
+        "title": "Analyse Intelligente de Laboratoire",
+        "description": "Interprétez les résultats de laboratoire complexes avec des valeurs de référence spécifiques à l'espèce."
+      },
+      "knowledgeBase": {
+        "title": "Base de Connaissances Étendue",
+        "description": "Accès direct aux dernières recherches vétérinaires et protocoles de traitement."
+      },
+      "learning": {
+        "title": "Technologie Auto-Apprenante",
+        "description": "VetGenius devient plus intelligent à chaque interaction grâce à l'apprentissage par renforcement."
+      },
+      "safety": {
+        "title": "La Sécurité Avant Tout",
+        "description": "Plusieurs couches de sécurité pour un support diagnostique fiable."
+      },
+      "integration": {
+        "title": "Intégration Transparente",
+        "description": "S'intègre parfaitement dans votre flux de travail existant avec API pour logiciel de gestion."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Comment ça Fonctionne",
+    "steps": {
+      "input": {
+        "title": "Saisir les Données du Patient",
+        "description": "Téléchargez facilement les résultats de laboratoire, images médicales ou décrivez les symptômes par texte ou voix."
+      },
+      "analysis": {
+        "title": "Analyse IA",
+        "description": "Notre modèle IA avancé traite toutes les entrées en utilisant notre base de connaissances vétérinaires complète."
+      },
+      "insights": {
+        "title": "Recevez des Insights",
+        "description": "Obtenez des suggestions diagnostiques, options de traitement et références de recherche en quelques secondes."
+      },
+      "decision": {
+        "title": "Prenez des Décisions Éclairées",
+        "description": "Utilisez les insights IA pour soutenir votre jugement clinique."
+      }
+    }
+  },
+  "technology": {
+    "title": "Construit sur l'IA de Pointe",
+    "subtitle": "La technologie la plus puissante pour le diagnostic vétérinaire",
+    "items": {
+      "model": {
+        "title": "Modèle GPT-OSS-120B",
+        "description": "120 milliards de paramètres pour des diagnostics supérieurs"
+      },
+      "rag": {
+        "title": "Base de Connaissances Graph RAG",
+        "description": "Accès direct aux connaissances vétérinaires via une récupération avancée"
+      },
+      "rl": {
+        "title": "Apprentissage par Renforcement",
+        "description": "Devient plus intelligent à chaque interaction grâce au feedback continu"
+      },
+      "explainable": {
+        "title": "IA Explicable",
+        "description": "Explication transparente pour chaque suggestion diagnostique"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Avantages pour Votre Pratique",
+    "items": {
+      "saveTime": {
+        "title": "Gagnez du Temps Précieux",
+        "metric": "70%",
+        "description": "Réduisez le temps de diagnostic avec une analyse instantanée"
+      },
+      "accuracy": {
+        "title": "Augmentez la Précision",
+        "metric": "95%+",
+        "description": "Réduisez le risque de diagnostics manqués"
+      },
+      "confidence": {
+        "title": "Renforcez la Confiance",
+        "metric": "24/7",
+        "description": "Suggestions basées sur des preuves avec références"
+      },
+      "education": {
+        "title": "Formation Continue",
+        "metric": "1000+",
+        "description": "Accès aux protocoles et recherches"
+      },
+      "revenue": {
+        "title": "Améliorez le Rendement",
+        "metric": "30%",
+        "description": "Plus de patients grâce à des diagnostics efficaces"
+      },
+      "errors": {
+        "title": "Réduisez les Erreurs",
+        "metric": "85%",
+        "description": "Moins d'erreurs médicales grâce à la vérification IA"
+      }
+    }
+  },
+  "security": {
+    "title": "Vos Données en Sécurité",
+    "subtitle": "La confidentialité médicale et la sécurité sont primordiales",
+    "items": {
+      "gdpr": {
+        "title": "Conforme au RGPD",
+        "description": "Conformité totale avec la législation européenne sur la vie privée"
+      },
+      "encryption": {
+        "title": "Chiffrement de Bout en Bout",
+        "description": "Sécurité de niveau militaire pour toutes les données des patients"
+      },
+      "validation": {
+        "title": "Validation Vétérinaire",
+        "description": "Chaque résultat vérifié par des experts du domaine"
+      },
+      "uncertainty": {
+        "title": "Signalement d'Incertitude",
+        "description": "Communication transparente en cas de doute"
+      }
+    }
+  },
+  "cta": {
+    "title": "Prêt pour l'Avenir?",
+    "subtitle": "Devenez un adopteur précoce et obtenez un accès exclusif à VetGenius",
+    "formTitle": "Demander l'Accès",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "practice": "Cabinet/Clinique",
+      "interest": {
+        "demo": "Démonstration du produit",
+        "pilot": "Participation au programme pilote",
+        "research": "Collaboration de recherche",
+        "investment": "Opportunités d'investissement"
+      },
+      "message": "Message (optionnel)",
+      "submit": "Envoyer la Demande"
+    },
+    "benefits": {
+      "title": "En tant qu'adopteur précoce, vous obtenez:",
+      "items": [
+        "Accès exclusif aux nouvelles fonctionnalités",
+        "Influence directe sur le développement du produit",
+        "Tarifs de lancement spéciaux",
+        "Support personnel pour l'implémentation"
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Renforcer les vétérinaires avec l'IA",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "location": "Belgique",
+    "rights": "Tous droits réservés"
+  }
+}

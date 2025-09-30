@@ -1,0 +1,181 @@
+{
+  "navigation": {
+    "features": "Functies",
+    "howItWorks": "Hoe Het Werkt",
+    "contact": "Contact",
+    "requestAccess": "Vraag Toegang Aan"
+  },
+  "hero": {
+    "title": "VetGenius",
+    "subtitle": "AI-Gedreven Veterinaire Assistent",
+    "tagline": "Ondersteunt dierenartsen met intelligente diagnostische hulp voor betere dierenzorg"
+  },
+  "about": {
+    "title": "Een Revolutie in Diergeneeskunde",
+    "paragraph1": "VetGenius.ai combineert geavanceerde kunstmatige intelligentie met uitgebreide veterinaire kennis om diergezondheidsprofessionals te ondersteunen in hun dagelijkse praktijk. In samenwerking met toonaangevende veterinaire universiteiten ontwikkelen we een platform dat de nieuwste wetenschappelijke inzichten combineert met praktijkervaring om de kwaliteit van dierenzorg wereldwijd te verbeteren.",
+    "paragraph2": "We streven ernaar om elke dierenarts toegang te geven tot de meest geavanceerde diagnostische hulpmiddelen. Door complexe data-analyse te combineren met bewezen veterinaire kennis, helpen we dierenartsen snellere en nauwkeurigere diagnoses te stellen, wat uiteindelijk leidt tot betere gezondheidsresultaten voor dieren."
+  },
+  "features": {
+    "title": "Kernfuncties",
+    "items": {
+      "multimodal": {
+        "title": "Multimodale Diagnostiek",
+        "description": "Analyseer röntgenfoto's, echo's, bloedonderzoek en spraaknotities in één geïntegreerd platform."
+      },
+      "labAnalysis": {
+        "title": "Slimme Lab Analyse",
+        "description": "Interpreteer complexe labresultaten met soort-specifieke referentiewaarden."
+      },
+      "knowledgeBase": {
+        "title": "Uitgebreide Kennisbank",
+        "description": "Direct toegang tot de nieuwste veterinaire onderzoeken en behandelprotocollen."
+      },
+      "learning": {
+        "title": "Zelflerende Technologie",
+        "description": "VetGenius wordt slimmer met elke interactie door reinforcement learning."
+      },
+      "safety": {
+        "title": "Veiligheid Voorop",
+        "description": "Meerdere veiligheidslagen voor betrouwbare diagnostische ondersteuning."
+      },
+      "integration": {
+        "title": "Naadloze Integratie",
+        "description": "Past perfect in uw bestaande werkwijze met API voor praktijkmanagementsoftware."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Hoe Het Werkt",
+    "steps": {
+      "input": {
+        "title": "Invoer Patiëntgegevens",
+        "description": "Upload eenvoudig labresultaten, medische beelden of beschrijf symptomen via tekst of spraak."
+      },
+      "analysis": {
+        "title": "AI Analyse",
+        "description": "Ons geavanceerde AI-model verwerkt alle input met behulp van onze uitgebreide veterinaire kennisbank."
+      },
+      "insights": {
+        "title": "Ontvang Inzichten",
+        "description": "Krijg binnen seconden diagnostische suggesties, behandelopties en relevante onderzoeksreferenties."
+      },
+      "decision": {
+        "title": "Neem Weloverwogen Beslissingen",
+        "description": "Gebruik de AI-inzichten ter ondersteuning van uw klinische oordeel."
+      }
+    }
+  },
+  "technology": {
+    "title": "Gebouwd op Cutting-Edge AI",
+    "subtitle": "De krachtigste technologie voor veterinaire diagnostiek",
+    "items": {
+      "model": {
+        "title": "GPT-OSS-120B Model",
+        "description": "120 miljard parameters voor superieure diagnoses"
+      },
+      "rag": {
+        "title": "Graph RAG Kennisbank",
+        "description": "Directe toegang tot veterinaire kennis via geavanceerde retrieval"
+      },
+      "rl": {
+        "title": "Reinforcement Learning",
+        "description": "Wordt slimmer met elke interactie door continue feedback"
+      },
+      "explainable": {
+        "title": "Explainable AI",
+        "description": "Transparante uitleg bij elke diagnostische suggestie"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Voordelen voor Uw Praktijk",
+    "items": {
+      "saveTime": {
+        "title": "Bespaar Kostbare Tijd",
+        "metric": "70%",
+        "description": "Verminder diagnostische tijd met directe analyse"
+      },
+      "accuracy": {
+        "title": "Verhoog Nauwkeurigheid",
+        "metric": "95%+",
+        "description": "Verminder het risico op gemiste diagnoses"
+      },
+      "confidence": {
+        "title": "Vergroot Vertrouwen",
+        "metric": "24/7",
+        "description": "Evidence-based suggesties met referenties"
+      },
+      "education": {
+        "title": "Continue Bijscholing",
+        "metric": "1000+",
+        "description": "Toegang tot protocollen en onderzoeken"
+      },
+      "revenue": {
+        "title": "Verbeter Rendement",
+        "metric": "30%",
+        "description": "Meer patiënten door efficiëntere diagnostiek"
+      },
+      "errors": {
+        "title": "Verminder Fouten",
+        "metric": "85%",
+        "description": "Minder medische fouten door AI-verificatie"
+      }
+    }
+  },
+  "security": {
+    "title": "Uw Data in Veilige Handen",
+    "subtitle": "Medische privacy en veiligheid staat voorop",
+    "items": {
+      "gdpr": {
+        "title": "GDPR-Compliant",
+        "description": "Volledige naleving Europese privacywetgeving"
+      },
+      "encryption": {
+        "title": "End-to-End Encryptie",
+        "description": "Militaire-grade beveiliging voor alle patiëntdata"
+      },
+      "validation": {
+        "title": "Veterinaire Validatie",
+        "description": "Elke output geverifieerd door domeinexperts"
+      },
+      "uncertainty": {
+        "title": "Uncertainty Flagging",
+        "description": "Transparante communicatie bij twijfelgevallen"
+      }
+    }
+  },
+  "cta": {
+    "title": "Klaar voor de Toekomst?",
+    "subtitle": "Word early adopter en krijg exclusieve toegang tot VetGenius",
+    "formTitle": "Vraag Toegang Aan",
+    "form": {
+      "name": "Naam",
+      "email": "E-mail",
+      "practice": "Praktijk/Kliniek",
+      "interest": {
+        "demo": "Product demonstratie",
+        "pilot": "Pilotprogramma deelname",
+        "research": "Onderzoekssamenwerking",
+        "investment": "Investeringsmogelijkheden"
+      },
+      "message": "Bericht (optioneel)",
+      "submit": "Verstuur Aanvraag"
+    },
+    "benefits": {
+      "title": "Als early adopter krijgt u:",
+      "items": [
+        "Exclusieve toegang tot nieuwe functies",
+        "Directe invloed op productontwikkeling",
+        "Speciale lanceringstarieven",
+        "Persoonlijke ondersteuning bij implementatie"
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Dierenartsen versterken met AI",
+    "quickLinks": "Snelle Links",
+    "contact": "Contact",
+    "location": "België",
+    "rights": "Alle rechten voorbehouden"
+  }
+}

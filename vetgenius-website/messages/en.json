@@ -1,0 +1,181 @@
+{
+  "navigation": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "contact": "Contact",
+    "requestAccess": "Request Access"
+  },
+  "hero": {
+    "title": "VetGenius",
+    "subtitle": "AI-Powered Veterinary Assistant",
+    "tagline": "Supporting veterinarians with intelligent diagnostic assistance for better animal care"
+  },
+  "about": {
+    "title": "A Revolution in Veterinary Medicine",
+    "paragraph1": "VetGenius.ai combines advanced artificial intelligence with comprehensive veterinary knowledge to support animal health professionals in their daily practice. In collaboration with leading veterinary universities, we are developing a platform that combines the latest scientific insights with practical experience to improve the quality of animal care worldwide.",
+    "paragraph2": "We strive to give every veterinarian access to the most advanced diagnostic tools. By combining complex data analysis with proven veterinary knowledge, we help veterinarians make faster and more accurate diagnoses, ultimately leading to better health outcomes for animals."
+  },
+  "features": {
+    "title": "Core Features",
+    "items": {
+      "multimodal": {
+        "title": "Multimodal Diagnostics",
+        "description": "Analyze X-rays, ultrasounds, blood tests and voice notes in one integrated platform."
+      },
+      "labAnalysis": {
+        "title": "Smart Lab Analysis",
+        "description": "Interpret complex lab results with species-specific reference values."
+      },
+      "knowledgeBase": {
+        "title": "Comprehensive Knowledge Base",
+        "description": "Direct access to the latest veterinary research and treatment protocols."
+      },
+      "learning": {
+        "title": "Self-Learning Technology",
+        "description": "VetGenius becomes smarter with every interaction through reinforcement learning."
+      },
+      "safety": {
+        "title": "Safety First",
+        "description": "Multiple safety layers for reliable diagnostic support."
+      },
+      "integration": {
+        "title": "Seamless Integration",
+        "description": "Fits perfectly into your existing workflow with API for practice management software."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": {
+      "input": {
+        "title": "Input Patient Data",
+        "description": "Easily upload lab results, medical images or describe symptoms via text or speech."
+      },
+      "analysis": {
+        "title": "AI Analysis",
+        "description": "Our advanced AI model processes all input using our comprehensive veterinary knowledge base."
+      },
+      "insights": {
+        "title": "Receive Insights",
+        "description": "Get diagnostic suggestions, treatment options and relevant research references within seconds."
+      },
+      "decision": {
+        "title": "Make Informed Decisions",
+        "description": "Use AI insights to support your clinical judgment."
+      }
+    }
+  },
+  "technology": {
+    "title": "Built on Cutting-Edge AI",
+    "subtitle": "The most powerful technology for veterinary diagnostics",
+    "items": {
+      "model": {
+        "title": "GPT-OSS-120B Model",
+        "description": "120 billion parameters for superior diagnoses"
+      },
+      "rag": {
+        "title": "Graph RAG Knowledge Base",
+        "description": "Direct access to veterinary knowledge via advanced retrieval"
+      },
+      "rl": {
+        "title": "Reinforcement Learning",
+        "description": "Gets smarter with every interaction through continuous feedback"
+      },
+      "explainable": {
+        "title": "Explainable AI",
+        "description": "Transparent explanation for every diagnostic suggestion"
+      }
+    }
+  },
+  "benefits": {
+    "title": "Benefits for Your Practice",
+    "items": {
+      "saveTime": {
+        "title": "Save Valuable Time",
+        "metric": "70%",
+        "description": "Reduce diagnostic time with instant analysis"
+      },
+      "accuracy": {
+        "title": "Increase Accuracy",
+        "metric": "95%+",
+        "description": "Reduce the risk of missed diagnoses"
+      },
+      "confidence": {
+        "title": "Boost Confidence",
+        "metric": "24/7",
+        "description": "Evidence-based suggestions with references"
+      },
+      "education": {
+        "title": "Continuous Education",
+        "metric": "1000+",
+        "description": "Access to protocols and research"
+      },
+      "revenue": {
+        "title": "Improve Revenue",
+        "metric": "30%",
+        "description": "More patients through efficient diagnostics"
+      },
+      "errors": {
+        "title": "Reduce Errors",
+        "metric": "85%",
+        "description": "Fewer medical errors through AI verification"
+      }
+    }
+  },
+  "security": {
+    "title": "Your Data in Safe Hands",
+    "subtitle": "Medical privacy and security is paramount",
+    "items": {
+      "gdpr": {
+        "title": "GDPR-Compliant",
+        "description": "Full compliance with European privacy legislation"
+      },
+      "encryption": {
+        "title": "End-to-End Encryption",
+        "description": "Military-grade security for all patient data"
+      },
+      "validation": {
+        "title": "Veterinary Validation",
+        "description": "Every output verified by domain experts"
+      },
+      "uncertainty": {
+        "title": "Uncertainty Flagging",
+        "description": "Transparent communication in cases of doubt"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready for the Future?",
+    "subtitle": "Become an early adopter and get exclusive access to VetGenius",
+    "formTitle": "Request Access",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "practice": "Practice/Clinic",
+      "interest": {
+        "demo": "Product demonstration",
+        "pilot": "Pilot program participation",
+        "research": "Research collaboration",
+        "investment": "Investment opportunities"
+      },
+      "message": "Message (optional)",
+      "submit": "Send Request"
+    },
+    "benefits": {
+      "title": "As an early adopter you get:",
+      "items": [
+        "Exclusive access to new features",
+        "Direct influence on product development",
+        "Special launch rates",
+        "Personal implementation support"
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Empowering veterinarians with AI",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "location": "Belgium",
+    "rights": "All rights reserved"
+  }
+}
